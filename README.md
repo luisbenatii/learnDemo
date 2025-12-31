@@ -1,2 +1,2 @@
 # learnDemo
-first repository for lear Github
+first repository for learn Github
